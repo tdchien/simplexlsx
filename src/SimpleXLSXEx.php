@@ -2,7 +2,7 @@
 
 /** @noinspection MultiAssignmentUsageInspection */
 
-namespace Shuchkin;
+namespace Chientd;
 
 use SimpleXMLElement;
 
